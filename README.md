@@ -1,4 +1,4 @@
-# ⚽📊 Football Career Analysis Using Python
+# ⚽📊 Football Player Career Analysis Using Python
 
 ## 📌 Project Overview
 This project focuses on analyzing the career of a renowned football player using Python. It explores player performance, competitions, clubs, and career statistics through Exploratory Data Analysis (EDA) and data visualization.
