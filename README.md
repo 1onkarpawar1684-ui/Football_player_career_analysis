@@ -49,7 +49,7 @@ football-career-analysis/
 This project was completed as part of the Menternship **“Perform Career Analysis of a Renowned Football Player,”** offered by **Sportskeeda in collaboration with MentorMind**.
 
 ## 👨‍💻 Author
-**Omkar Pawar**
+# Omkar Pawar
 
 ## ⭐ Acknowledgement
 Thanks to **MentorMind, Sportskeeda, and upGrad** for supporting my learning journey and professional development.
